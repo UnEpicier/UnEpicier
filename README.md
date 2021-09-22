@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UnEpicier
 - 👀 I’m interested in game developpement
-- 🌱 I’m currently learning Python
 - 📫 @un_epicier on Instagram
 
 <!---
