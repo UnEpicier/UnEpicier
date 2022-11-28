@@ -6,10 +6,10 @@
 </div>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alexis-vasseur-a289b7256/">
+    <a href="https://www.linkedin.com/in/alexis-vasseur-a289b7256/" target="_blank">
         <img height="30" src="https://img.shields.io/badge/Linkedin-0b65c3?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:alexis.vasseur@ynov.com">
+    <a href="mailto:alexis.vasseur@ynov.com" target="_blank">
         <img height="30" src="https://img.shields.io/badge/Mail-cb3b31?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 <p>
