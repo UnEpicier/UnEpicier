@@ -47,6 +47,8 @@ I'm 19 years old self-taught developer from France :clipperton_island:.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
