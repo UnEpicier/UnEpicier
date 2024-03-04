@@ -37,7 +37,6 @@ I'm 19 years old self-taught developer from France :clipperton_island:.
 
 - 💭 Learning a bit from everything
 - Studying at [Ynov Bordeaux Campus](https://www.ynov-bordeaux.com/)
-- 🔭 Fan of SpaceX, shoot at start and live on Mars!
 
 <br>
 <br>
