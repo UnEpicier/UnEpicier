@@ -80,8 +80,10 @@ I'm 19 years old self-taught developer from France :clipperton_island:.
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=unepicier&&show_icons=true&count_private=true&theme=tokyonight" style="margin: 1em"/>
     <br>
-    <img alt="Top Used Languages" style="margin: auto 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnEpicier&langs_count=10">
+    <!-- <img alt="Top Used Languages" style="margin: auto 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnEpicier&langs_count=10"> -->
 </div>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
