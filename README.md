@@ -32,7 +32,7 @@
 <img align="right" width="450px" alt="Something good" src="https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif">
 
 <p align="center">
-I'm 19 years old self-taught developer from France :clipperton_island:.
+I'm 20 years old self-taught developer from France :clipperton_island:.
 </p>
 
 - 💭 Learning a bit from everything
